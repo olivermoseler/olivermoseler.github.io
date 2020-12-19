@@ -11,6 +11,11 @@ a {
     font-weight: bold;
 }
 
+.colored-bold-text {
+    color: #cc7832;
+    font-weight: bold;
+}
+
 h1 {
     line-height: 20px;
     font-size: 14px;
