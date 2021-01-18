@@ -1,0 +1,11 @@
+main:
+        - title: "Teaching"
+          url: /teaching/
+        - title: "Supervised Theses"
+          url: /supervidsed-theses/
+        - title: "CV"
+          url: /cv/
+        - title: "Talks"
+          url: /talks/
+        - title: "Publications"
+          url: /publications/
