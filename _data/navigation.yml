@@ -1,11 +1,19 @@
 main:
-        - title: "Teaching"
-          url: /teaching/
-        - title: "Supervised Theses"
-          url: /supervidsed-theses/
-        - title: "CV"
-          url: /cv/
-        - title: "Talks"
-          url: /talks/
         - title: "Publications"
           url: /publications/
+        - title: "Research Projects"
+          url: /research-projects/
+        - title: "Supervised Theses"
+          url: /supervised-theses/
+        - title: "Teaching"
+          url: /teaching/
+        - title: "Peer Reviews"
+          url: /peer-reviews/
+        - title: "Participations"
+          url: /participations/
+        - title: "PC Memberships"
+          url: /pc-memberships/
+        - title: "Talks"
+          url: /talks/
+        - title: "CV"
+          url: /cv/
