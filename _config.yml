@@ -26,31 +26,34 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OMoseler
-github_username: olivermoseler 
+github_username: olivermoseler
 
 # Build settings
-#theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minima
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 locale: "en-US"
 logo: "/_mydata/uni-trier.svg"
 
-include: ["_pages", "_mydata"]
+include: [ "_pages", "_mydata" ]
 #include: ["_mydata"]
 
-#plugins:
-        #  - jekyll-feed
+plugins:
+  - jekyll-include-cache
+  #  - jekyll-feed
 
 
-name : "Oliver Moseler"
+name: "Oliver Moseler"
 
 # Site Author
 author:
-  name             : "Oliver Moseler"
-  avatar           : "/_mydata/profile-picture.png"
-  bio              : "Doctoral Researcher <br> Teaching Assitant <br> Software Engineer"
-  location         : "Trier, Germany"
-  email            : "moseler@uni-trier.de"
+  name: "Oliver Moseler"
+  avatar: "/_mydata/profile-picture.png"
+  bio: "Doctoral Researcher <br> Teaching Assitant <br> Software Engineer"
+  location: "Trier, Germany"
+  email: "moseler@uni-trier.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -64,15 +67,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/olivermoseler"
-        
+
 defaults:
-        # _pages
-        - scope:
-                path: ""
-                type: pages
-          values:
-                  layout: single
-                  author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 
 
