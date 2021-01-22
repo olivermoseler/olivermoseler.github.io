@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 ## Winter 2020/21
 ### Master
-* Individual lectures and tutorial of the course **<a href="https://www.st.uni-trier.de/lectures/W2021/FST/">Advanced Software Engineering</a>** (Fortgeschrittene Softwaretechnik)
+* Individual lectures on *Profiling*  and *Java Bytecode Instrumentation* in the scope of the course **<a href="https://www.st.uni-trier.de/lectures/W2021/FST/" target="_blank">Advanced Software Engineering</a>** (Fortgeschrittene Softwaretechnik)
 * **Research seminar / internship Software Engineering**
 
 ### Bachelor
