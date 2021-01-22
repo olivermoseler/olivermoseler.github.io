@@ -1,0 +1,107 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Oliver Moseler
+# subtitle: SubTitle
+# email: moseler@uni-trier.de
+description: >- # this means to ignore newlines until "baseurl:"
+  Doctoral Researcher, Teaching Assistant, Software Engineer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: OMoseler
+github_username: olivermoseler
+
+# Build settings
+# theme: minima
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+locale: "en-US"
+logo: "/assets/images/uni-trier.svg"
+
+include: [ "_pages" ]
+
+# include: [ "_pages", "_mydata" ]
+
+plugins:
+  - jekyll-include-cache
+  #  - jekyll-feed
+
+
+name: "Oliver Moseler"
+
+# Site Author
+author:
+  name: "Oliver Moseler"
+  avatar: "/assets/images/profile-picture.png"
+  bio: "Doctoral Researcher <br> Teaching Assistant <br> Software Engineer"
+  location: "Trier, Germany"
+  #  email: "moseler@uni-trier.de"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:moseler@uni-trier.de"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/OMoseler?s=09"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/olivermoseler"
+    - label: "DBLP"
+      icon: "ai ai-fw ai-dblp"
+      url: "https://dblp.uni-trier.de/pers/hd/m/Moseler:Oliver.html"
+    - label: "IEEE"
+      icon: "ai ai-fw ai-ieee"
+      url: "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=oliver%20moseler"
+    - label: "Orcid"
+      icon: "ai ai-fw ai-orcid"
+      url: "https://orcid.org/0000-0003-3118-4968"
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

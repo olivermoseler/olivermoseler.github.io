@@ -1,1 +1,12 @@
-.jekyll-cache/
+## Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+
+## Former
+.idea/*
+!.idea/olivermoseler.github.io.iml
+!.idea/modules.xml
