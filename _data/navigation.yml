@@ -9,7 +9,7 @@ main:
           url: /supervised-theses/
         - title: "Teaching"
           url: /teaching/
-          #        - title: "Participations"
-          #          url: /participations/
+        - title: "Events"
+          url: /events/
         - title: "Talks"
           url: /talks/
