@@ -1,15 +1,13 @@
 main:
         - title: "Publications"
           url: /publications/
-          #        - title: "Research Projects"
-          #          url: /research-projects/
+        - title: "Research Projects"
+          url: /research-projects/
         - title: "Peer Reviews"
           url: /peer-reviews/
         - title: "Supervised Theses"
           url: /supervised-theses/
         - title: "Teaching"
           url: /teaching/
-        - title: "Events"
-          url: /events/
-        - title: "Talks"
-          url: /talks/
+        - title: "Events & Talks"
+          url: /events-talks/
