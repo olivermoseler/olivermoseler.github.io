@@ -6,7 +6,7 @@ title: "Publications"
 ## 2021
 ### On the Diversity and Frequency of Code Related to Mathematical Formulas in Real-World Java Projects
 <u>Oliver Moseler</u>, Felix Lemmer, Sebastian Baltes, and Stephan Diehl<br/>
-In: *[Journal of Systems & Software](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302533?via%3Dihub), Volume 172, February 2021 (to appear)*
+In: *[Journal of Systems & Software](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302533?via%3Dihub), Volume 172, February 2021*
 
 ## 2020
 ### Visual Breakpoint Debugging for Sum and Product Formulae
