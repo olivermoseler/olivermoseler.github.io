@@ -2,6 +2,8 @@
 permalink: /supervised-theses/
 title: "Supervised Theses"
 ---
+During my employment at the University of Trier, I have supervised **4** bachelor theses and **6** master theses so far. Below you will find the complete listing by year with the name of the student and the respective title of the thesis.
+
 
 ## 2020
 Robin Essig: *Analyse von Lock-Contention Events in nebenläufigen Java Programmen* (Master's thesis)
