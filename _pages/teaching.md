@@ -2,9 +2,14 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+## Summer 2021
+### Master
+* Tutorial of the course **Fundamentals of Computer Graphics** (Grundlagen der Computergrafik)
+* **Research Seminar / Internship Software Engineering**
+
 ## Winter 2020/21
 ### Master
-* Individual sieries of lectures on *Profiling*  and *Java Bytecode Instrumentation* in the scope of the course **<a href="https://www.st.uni-trier.de/lectures/W2021/FST/" target="_blank">Advanced Software Engineering</a>** (Fortgeschrittene Softwaretechnik)
+* Individual sieries of lectures on *Profiling*  and *Java Bytecode Instrumentation* in the scope of the course **Advanced Software Engineering** (Fortgeschrittene Softwaretechnik)
 * Tutorial of the course **Advanced Software Engineering**
 * **Research Seminar / Internship Software Engineering**
 
