@@ -10,3 +10,4 @@ vendor
 .idea/*
 !.idea/olivermoseler.github.io.iml
 !.idea/modules.xml
+Gemfile.lock
