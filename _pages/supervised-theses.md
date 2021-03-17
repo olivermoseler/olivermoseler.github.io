@@ -6,7 +6,7 @@ During my employment at the University of Trier, I have supervised **5** bachelo
 
 ## 2021
 
-Rochus Oest: *Dynamische Analyse der nebenläufigen Verwendung von Java Collections*
+Rochus Oest: *Dynamische Analyse der nebenläufigen Verwendung von Java Collections* (Bachelor's thesis)
 
 ## 2020
 
