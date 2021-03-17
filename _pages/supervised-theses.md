@@ -2,10 +2,14 @@
 permalink: /supervised-theses/
 title: "Supervised Theses"
 ---
-During my employment at the University of Trier, I have supervised **4** bachelor theses and **6** master theses so far. Below you will find the complete listing by year with the name of the student and the respective title of the thesis.
+During my employment at the University of Trier, I have supervised **5** bachelor theses and **6** master theses so far. Below you will find the complete listing by year with the name of the student and the respective title of the thesis.
 
+## 2021
+
+Rochus Oest: *Dynamische Analyse der nebenläufigen Verwendung von Java Collections*
 
 ## 2020
+
 Robin Essig: *Analyse von Lock-Contention Events in nebenläufigen Java Programmen* (Master's thesis)
 
 Charel Irrthum: *TrieRoad - Eine 3D Visualisierung von Call Stack Traces über die Zeit: Muster und Phänomene nebenläufiger Programme* (Master's thesis)
