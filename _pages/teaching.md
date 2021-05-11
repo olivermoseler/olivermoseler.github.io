@@ -7,6 +7,10 @@ title: "Teaching"
 * Tutorial of the course **Fundamentals of Computer Graphics** (Grundlagen der Computergrafik)
 * **Research Seminar / Advanced Practical Course**
 
+### Bachelor
+* Individual lecture on *Concurrency, Threads and Synchronization using Java Monitors* in the scope of the course **Advanced Programming**
+* Individual lectures on *Debugging* and *Profiling* in the scope of the course <strong>Tools of Computer Science</strong>
+
 ## Winter 2020/21
 ### Master
 * Individual sieries of lectures on *Profiling*  and *Java Bytecode Instrumentation* in the scope of the course **Advanced Software Engineering** (Fortgeschrittene Softwaretechnik)
