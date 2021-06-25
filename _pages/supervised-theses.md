@@ -2,9 +2,11 @@
 permalink: /supervised-theses/
 title: "Supervised Theses"
 ---
-During my employment at the University of Trier, I have supervised **5** bachelor theses and **6** master theses so far. Below you will find the complete listing by year with the name of the student and the respective title of the thesis.
+During my occupation at the University of Trier, I have supervised **5** Bachelor's theses and **7** Master's theses so far.
 
 ## 2021
+
+Moritz Künzl: *Formative Studien zu laufzeitbasiertem Clustering von Threads* (Master's thesis)
 
 Rochus Oest: *Dynamische Analyse der nebenläufigen Verwendung von Java Collections* (Bachelor's thesis)
 
