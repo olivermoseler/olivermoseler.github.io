@@ -14,7 +14,7 @@ Hi, my name is <b>Oliver Moseler</b>,<br/>
 I am a doctoral researcher and teaching assistant in the Software-Engineering Group at the <a href="https://www.st.uni-trier.de" target="_blank">University of Trier</a>, Germany.
 
 My research is related to the static and dynamic analysis of programs as well as the visualization of software metrics to support the software debugging process.
-Therefore, the development of novel (visual) debugging approaches, their implementation in tools close to integrated development environments and their evaluation is my main research concern.
+The design and development of novel (visual) debugging approaches, their implementation in tools close to integrated development environments and their evaluation is my main research interest.
 In particular, I focus on performance, concurrency and synchronization in the Java world, i.e. the dynamic analysis of multithreaded Java programs and related concurrency as well as performance bugs.
 
 
