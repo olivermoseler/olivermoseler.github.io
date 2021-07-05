@@ -7,7 +7,7 @@ title: "Publications"
 
 ### ThreadRadar: A Thread-Aware Visualization for Debugging Concurrent Java Programs
 <u>Oliver Moseler</u>, Lucas Kreber, and Stephan Diehl<br/>
-Accepted at *The 14th International Symposium on Visual Information Communication and Interaction ([VINCI 2021](https://vinci-conf.org))*
+Accepted at the *14th International Symposium on Visual Information Communication and Interaction ([VINCI 2021](https://vinci-conf.org))*
 
 ### On the Diversity and Frequency of Code Related to Mathematical Formulas in Real-World Java Projects
 <u>Oliver Moseler</u>, Felix Lemmer, Sebastian Baltes, and Stephan Diehl<br/>
